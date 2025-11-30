@@ -1,0 +1,33 @@
+customer_id,first_name,last_name,email,signup_date,country,age,newsletter_opt_in
+CUST001,Anna,Jansen,anna.jansen@example.com,2023-01-14,Netherlands,34,Yes
+CUST002,Miguel,Van Dijk,miguel.vandijk@example.com,2023-02-03,Netherlands,28,No
+CUST003,Sophie,Visser,sophie.v@example.com,,Netherlands,27,Yes
+CUST004,Lars,Bakker,lars.bakker@example.com,2022-11-22,Netherlands,42,No
+CUST005,Sara,Smits,sara.smits@example.com,2023-03-18,Netherlands,,Yes
+CUST006,David,Smit,david.smit@example.com,2021-12-01,Netherlands,36,No
+CUST007,Emily,Kok,emily.kok@example.com,2023-01-30,Netherlands,31,Yes
+CUST008,Noah,Groen,noah.groen@example.com,2022-10-05,Netherlands,,No
+CUST009,Mila,Brand,mila.brand@example.com,2023-02-14,Netherlands,24,
+CUST010,Levi,Bos,levi.bos@example.com,,Netherlands,19,Yes
+CUST011,Julia,Kuiper,julia.kuiper@example.com,2022-09-12,Netherlands,58,No
+CUST012,Thijs,Meijer,thijs.meijer@example.com,2021-07-21,Netherlands,65,No
+CUST013,Fleur,De Vries,fleur.dev@example.com,2023-03-03,Netherlands,33,Yes
+CUST014,Daan,Kok,daan.kok@example.com,2023-03-09,Netherlands,40,No
+CUST015,Lotte,Post,lotte.post@example.com,2020-08-19,Netherlands,,Yes
+CUST016,Tess,Peeters,tess.peeters@example.com,2022-03-11,Netherlands,71,No
+CUST017,Ruben,Willems,ruben.willems@example.com,2021-05-15,Netherlands,17,Yes
+CUST018,Sam,Brouwer,sam.brouwer@example.com,2023-02-28,Netherlands,44,No
+CUST019,Isabella,Jonker,isa.jonker@example.com,2022-11-02,Netherlands,52,Yes
+CUST020,Mats,Verhoeven,mats.verhoeven@example.com,,Netherlands,30,No
+CUST021,Roos,Bosma,roos.bosma@example.com,2023-01-25,Netherlands,38,Yes
+CUST022,Olivier,Veen,olivier.veen@example.com,2022-04-04,Netherlands,45,No
+CUST023,Eva,De Groot,eva.degroot@example.com,2023-03-12,Netherlands,29,Yes
+CUST024,Jayden,Hoek,jayden.hoek@example.com,2021-09-30,Netherlands,62,No
+CUST025,Nora,Prins,nora.prins@example.com,2022-12-19,Netherlands,41,Yes
+CUST026,Benjamin,Dekker,ben.dekker@example.com,2023-01-02,Netherlands,23,No
+CUST027,Guus,Bijl,guus.bijl@example.com,2023-02-05,Netherlands,34,
+CUST028,Puck,Van Dam,puck.vandam@example.com,2022-07-07,Netherlands,,Yes
+CUST029,Ryan,Teunissen,ryan.teunissen@example.com,2023-03-19,Netherlands,47,No
+CUST030,Mia,De Bruin,mia.debruin@example.com,2022-05-23,Netherlands,26,Yes
+CUST031,Sven,Van Leeuwen,sven.vleeuwen@example.com,2023-02-17,Netherlands,39,No
+CUST032,Zoe,Janssen,zoe.janssen@example.com,2021-10-10,Netherlands,54,Yes

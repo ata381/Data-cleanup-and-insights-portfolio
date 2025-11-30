@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,country,product_category,unit_price,quantity,discount_percent,payment_method,returned
+ORD1001,2023-01-02,CUST005,Netherlands,Electronics,249.99,1,10,Credit Card,no
+ORD1002,2023-01-03,CUST012,NL,Clothing,79.5,2,5,PayPal,no
+ORD1003,2023-01-05,CUST018,nl,Home,120,1,0,Credit Card,yes
+ORD1004,2023-01-07,CUST021,Netherlands,Beauty,45,3,15,iDEAL,no
+ORD1005,2023-01-09,CUST030,NL,Electronics,0,1,5,Credit Card,no
+ORD1006,2023-01-10,CUST008,NETHERLANDS,Clothing,65,2,80,PayPal,no
+ORD1007,2023-01-12,CUST014,NL,Home,-15,4,10,iDEAL,no
+ORD1008,2023-01-15,CUST019,netherlands,Electronics,329.99,1,20,Credit Card,no
+ORD1009,2023-01-18,CUST001,NL,Outdoors,150,1,0,PayPal,no
+ORD1010,,CUST022,Netherlands,Home,89,2,5,Credit Card,no
+ORD1011,2023-01-21,CUST027,NL,Electronics,199.5,1,0,iDEAL,yes
+ORD1012,2023-01-24,CUST011,NETHERLANDS,Clothing,58,3,5,PayPal,no
+ORD1013,2023-01-26,CUST007,Netherlands,Beauty,35,2,0,Credit Card,no
+ORD1014,2023-01-28,CUST025,NL,Home,210,1,25,iDEAL,no
+ORD1015,2023/02/02,CUST004,Belgium,Electronics,499,1,12,Credit Card,no
+ORD1015,2023-02-03,CUST004,Belgium,Electronics,499,1,12,PayPal,no
+ORD1016,2023-02-04,CUST013,BE,Clothing,89,2,0,Credit Card,
+ORD1017,2023-02-06,CUST002,Netherlands,Home,130,2,5,iDEAL,no
+ORD1018,2023-02-08,CUST015,NL,Kids,75,1,0,PayPal,no
+ORD1019,2023-02-10,CUST006,Germany,Electronics,349.99,1,18,Credit Card,yes
+ORD1020,2023-02-12,CUST017,DE,Clothing,64,3,8,iDEAL,no
+ORD1021,2023-02-14,CUST010,Netherlands,Beauty,52,2,10,PayPal,no
+ORD1022,2023-02-16,CUST016,Belgium,Home,95,1,0,Credit Card,no
+ORD1023,2023-02-18,CUST029,NL,Electronics,279,1,30,iDEAL,no
+ORD1024,2023-02-20,CUST018,Netherlands,Outdoors,180,1,5,PayPal,no
+ORD1025,2023-02-22,CUST026,France,Clothing,120,2,60,Credit Card,no
+ORD1026,2023-02-24,CUST024,FR,Home,140,1,0,Bank Transfer,no
+ORD1027,2023-02-26,CUST020,Netherlands,Beauty,48,2,0,iDEAL,no
+ORD1028,2023-02-28,CUST028,NL,Sports,210,1,5,PayPal,no
+ORD1029,2023-03-02,CUST031,NETHERLANDS,Home,160,1,15,Credit Card,no
+ORD1030,2023-03-04,CUST032,Netherlands,Electronics,275,1,20,iDEAL,no
+ORD1031,2023-03-06,CUST003,Belgium,Home,105,2,0,PayPal,no
+ORD1032,2023-03-08,CUST005,Netherlands,Beauty,33,2,5,Credit Card,no
+ORD1033,2023-03-10,CUST012,NL,Electronics,399,1,0,iDEAL,no
+ORD1033,2023-03-10,CUST012,NL,Electronics,410,1,0,iDEAL,no
+ORD1034,2023-03-12,CUST021,Germany,Home,145,1,22,PayPal,no
+ORD1035,2023-03-14,CUST009,Netherlands,Clothing,70,3,5,Credit Card,no
+ORD1036,2023-03-16,CUST011,Belgium,Electronics,520,1,35,Credit Card,yes
+ORD1037,15-03-2023,CUST007,France,Beauty,42,2,10,iDEAL,no
+ORD1038,2023-03-20,CUST025,NL,Home,155,1,0,PayPal,no
+ORD1039,2023-03-22,CUST014,Netherlands,Sports,199,2,0,Credit Card,no
+ORD1040,2023-03-24,CUST001,NL,Electronics,289,1,5,iDEAL,no
+ORD1041,2023-04-02,CUST027,Netherlands,Electronics,305,1,10,Credit Card,no
+ORD1042,2023-04-04,CUST011,NL,Clothing,82,2,0,PayPal,no
+ORD1043,2023-04-06,CUST018,Belgium,Home,132,1,0,iDEAL,no
+ORD1044,2023-04-08,CUST005,Germany,Electronics,360,1,5,Credit Card,yes
+ORD1045,2023-04-10,CUST006,Netherlands,Beauty,55,2,0,PayPal,no
+ORD1046,2023-04-12,CUST029,NL,Home,170,1,0,iDEAL,no
+ORD1047,2023-04-14,CUST017,Belgium,Electronics,450,1,40,Bank Transfer,no
+ORD1048,2023-04-16,CUST010,Netherlands,Home,138,1,0,Credit Card,no
