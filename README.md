@@ -1,6 +1,10 @@
 # Data Cleanup and Insights Portfolio
 
+## Who we are
+
 Hi there! We're Muge (MSc in Artificial Intelligence & Cognitive Science) and Ata (BSc in Artificial Intelligence & Cognitive Science), an AI duo based in the Netherlands that enjoys turning messy spreadsheets into decision-ready insights.
+
+## Project overview
 
 This repository houses synthetic-yet-realistic portfolio examples that mirror the way we support clients on Upwork/Fiverr: start with untidy CSV/Excel files, clean them with transparent pandas code, add just-enough exploratory analysis, and finish with plain-English takeaways plus exportable clean files.
 
@@ -11,6 +15,14 @@ This repository houses synthetic-yet-realistic portfolio examples that mirror th
 - Deliver tidy CSV outputs ready for hand-off
 - Share reproducible notebooks/scripts so work can be audited or extended
 - Provide short reports in non-technical language
+
+## What this can be used for
+
+- Evaluating our approach before starting a freelance collaboration
+- Reviewing end-to-end examples of practical data cleanup workflows
+- Understanding how we translate cleaned data into business-ready insights
+- Reusing notebook/script patterns for similar CSV/Excel cleanup tasks
+- Demonstrating reproducible data work for portfolio or stakeholder presentations
 
 ## Contents
 
